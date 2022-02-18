@@ -1,7 +1,7 @@
 ## Olá, meu nome é Weiller sou engenheiro civil e aspirante a desenvolvedor.🐱‍👤
 <div align="center">
   <a href="https://github.com/weillercarvalho">
-  <img height="180em" width="500em" src="https://raw.githubusercontent.com/weillercarvalho/weillercarvalho/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+  <img height="180em" width="620em" src="https://raw.githubusercontent.com/weillercarvalho/weillercarvalho/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
   <img height="180em" src="https://raw.githubusercontent.com/weillercarvalho/weillercarvalho/main/profile-summary-card-output/nord_dark/3-stats.svg"/>
 </div>
 <div style="display: inline_block"><br>
