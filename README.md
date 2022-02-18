@@ -15,3 +15,9 @@
 <div> 
   <a href = "mailto:engweiller@hotmail.com"><img src="https://img.shields.io/badge/-HOTMAIL-lightgrey" alt="Shield-IO weiller hotmail"target="_blank"></a>
   <a href="https://www.linkedin.com/in/weiller-sousa-3b5408154/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-blue" target="_blank"></a>
+
+  
+  ![Snake animation](https://github.com/weillercarvalho/weillercarvalho/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
