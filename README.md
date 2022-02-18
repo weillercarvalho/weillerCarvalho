@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weillercarvalho
 - 👀 I’m interested in Front-End experiences.
-- 🌱 I’m currently learning HTML/CSS and JS
+- 🌱 I’m currently learning HTML/CSS and Python
 - 💞️ I’m looking to collaborate on as a intern or dev jr.
 - 📫 How to reach me : engweiller@hotmail.com
 
