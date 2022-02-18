@@ -1,9 +1,7 @@
-## Olá, meu nome é Weiller sou engenheiro civil e aspirante a desenvolvedor.🐱‍👤
+## Olá, meu nome é Weiller, sou engenheiro civil e aspirante a desenvolvedor.🐱‍👤
 <div align="center">
   <a href="https://github.com/weillercarvalho">
   <img height="180em" width="720em" src="https://raw.githubusercontent.com/weillercarvalho/weillercarvalho/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
-  <img height="180em" src="https://raw.githubusercontent.com/weillercarvalho/weillercarvalho/main/profile-summary-card-output/nord_dark/3-stats.svg"/>
-  <img height="180em" src="https://raw.githubusercontent.com/weillercarvalho/weillercarvalho/main/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Github-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
