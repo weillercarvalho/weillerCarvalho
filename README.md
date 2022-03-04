@@ -16,8 +16,8 @@ I'm a civil engineer and in my spare time i'm doing stuffs in web.🐱‍👤
  
 <div> 
   <a href = "mailto:engweiller@hotmail.com"><img src="https://img.shields.io/badge/-HOTMAIL-lightgrey" alt="Shield-IO weiller hotmail"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/weillercarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-blue" target="_blank"></a>
   <a href="https://linktr.ee/weillercarvalho" target="_blank"><img src="https://img.shields.io/badge/-LINKTREE-green" target="_blank"></a>
+  
 
   ![Snake animation](https://github.com/weillercarvalho/weillercarvalho/blob/output/github-contribution-grid-snake.svg)
   
