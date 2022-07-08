@@ -1,7 +1,7 @@
 ###
 
 <div>
-  <h1 align="center">Hi, I'm Weiller.</a>🖖</h1>
+  <h2 align="center">Hi, I'm Weiller.</a>🖖</h2>
 </div>
 
 <div align="center">
@@ -27,14 +27,11 @@
 
 <div align="center">
   
-  <a href="https://www.instagram.com/weillercarvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/weillercarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linktr.ee/weillercarvalho" target="_blank"><img src="https://img.shields.io/badge/-LINKTREE-brightgreen" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/weillercarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-blue" target="_blank"></a>
+  <a href="https://weillercarvalho.com/" target="_blank"><img src="https://img.shields.io/badge/-WEBSITE-lightgrey" target="_blank"></a> 
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/weillercarvalho/weillercarvalho/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
 <div align="center">
