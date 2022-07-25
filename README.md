@@ -12,8 +12,8 @@
 
 <div align="center">
   
-  <a href="https://linktr.ee/weillercarvalho" target="_blank"><img src="https://img.shields.io/badge/-LINKTREE-brightgreen"></a>
-  <a href="https://www.linkedin.com/in/weillercarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-blue"></a>
+  <a href="https://linktr.ee/weillercarvalho" target="_blank"><img src="https://img.shields.io/badge/-LINKTREE-lightgrey"></a>
+  <a href="https://www.linkedin.com/in/weillercarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-blueviolet"></a>
   <a href="https://weillercarvalho.com/" target="_blank"><img src="https://img.shields.io/badge/-WEBSITE-lightgrey"></a> 
 </div>
 
