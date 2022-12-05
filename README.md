@@ -4,9 +4,6 @@
 <div align="center">
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/weillercarvalho/count.svg?"  />
-</div>
 
 ###
 
