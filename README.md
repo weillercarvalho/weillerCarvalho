@@ -24,6 +24,6 @@
 
 <img src="https://raw.githubusercontent.com/weillercarvalho/weillerCarvalho/main/profile-summary-card-output/radical/4-productive-time.svg" alt="drawing" width="350" height="300" marginLeft="100"/>
 
-
+![](https://preview.redd.it/ppykjohhnrz11.gif?format=mp4&s=81584608e780fce1acb58b2e623173582e71a96b)
 
 <div align="center">
