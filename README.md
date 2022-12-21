@@ -14,6 +14,16 @@
   <a href="https://linktr.ee/weillercarvalho" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-100000?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=C3C3C3&color=C3C3C3"></a> 
 </div>
 
+<img src="https://raw.githubusercontent.com/weillercarvalho/weillerCarvalho/main/profile-summary-card-output/radical/0-profile-details.svg" alt="drawing" width="1300" height="300" marginLeft="100"/>
+
+<img src="https://raw.githubusercontent.com/weillercarvalho/weillerCarvalho/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="drawing" width="485" height="300" marginLeft="100"/>
+
+<img src="https://raw.githubusercontent.com/weillercarvalho/weillerCarvalho/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="drawing" width="485" height="300" marginLeft="100"/>
+
+<img src="https://raw.githubusercontent.com/weillercarvalho/weillerCarvalho/main/profile-summary-card-output/radical/3-stats.svg" alt="drawing" width="485" height="300" marginLeft="100"/>
+
+<img src="https://raw.githubusercontent.com/weillercarvalho/weillerCarvalho/main/profile-summary-card-output/radical/4-productive-time.svg" alt="drawing" width="485" height="300" marginLeft="100"/>
+
 
 
 <div align="center">
