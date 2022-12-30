@@ -2,7 +2,7 @@
 
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/99501431/209255979-ec22d6b7-6b32-4903-80da-71fd0490437d.png">
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Weiller+Carvalho;Software+Engineer;NodeJS+by+Work;Golang+by+Hobby" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Weiller+Carvalho;Software+Engineer;NodeJS+by+Work;React+by+Hobby" alt="Typing SVG" /></a>
 </div>
 
 ###
