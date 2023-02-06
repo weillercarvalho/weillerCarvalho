@@ -19,7 +19,7 @@
 <p align="left">:bulb: I started coding in 2014 when I was doing my bachelor's degree in civil engineering, at the time the language was C and the IDE was Falcon.<br><br>:movie_camera: I'm currently working on a personal project, which is a streaming plataform for movie trailers.<br><br>
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with:</h2>
 
 ###
 
