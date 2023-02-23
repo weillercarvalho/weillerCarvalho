@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=weillercarvalho" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">Where can you find me:</h2>
+<h2 align="left">You can find me here:</h2>
 
 <div align="center">
   
