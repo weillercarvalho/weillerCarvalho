@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">:bulb: I started coding in 2014 when I was doing my bachelor's degree in civil engineering, at the time the language was C and the IDE was Falcon.<br><br>:movie_camera: I'm currently working on a personal project, which is a streaming plataform for movie trailers.<br><br>:books: I'm currently learning Next.js.<br><br>
+<p align="left">:bulb: I started coding in 2014 when I was doing my bachelor's degree in civil engineering, at the time the language was C and the IDE was Falcon.<br><br>:books: I'm currently learning Next.js.<br><br>
 
 
 <h2 align="left">Techs I use often:</h2>
