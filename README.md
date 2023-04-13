@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">:bulb: I started coding in 2014 when I was doing my bachelor's degree in civil engineering, at the time the language was C and the IDE was Falcon.<br><br>:books: I'm currently learning  Next.js and I'm a huge fan of Adonis.js.<br><br>
+<p align="left">:bulb: I started coding in 2014 when I was doing my bachelor's degree in civil engineering, at the time the language was C and the IDE was Falcon.<br><br>:books: I'm currently learning  Adonis.js and I'm a huge fan of Elixir Programming Language.<br><br>
 
 
 <h2 align="left">Techs I use often:</h2>
@@ -25,6 +25,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
