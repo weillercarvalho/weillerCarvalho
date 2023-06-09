@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I'm currently learning  Java and Elixir.<br><br>
+<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I'm currently learning and working with Java.<br><br>
 
 
 <h2 align="left">Techs I use often:</h2>
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+
 </div>
 
 ###
