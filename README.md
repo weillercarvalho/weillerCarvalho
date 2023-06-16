@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Some facts about me::</h2>
+<h2 align="left">Some facts about me:</h2>
 
 ###
 
