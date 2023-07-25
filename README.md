@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I'm currently learning and working with Java.<br><br>
+<p align="left">:bulb: I startted coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I'm currently learning and working with Java.<br><br>
 
 
 <h2 align="left">Techs I use often:</h2>
