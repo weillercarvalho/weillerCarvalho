@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:wrench: I'm currently learning Selenium, trying to improve in java and sometimes studying a little about performance test.<br><br>:books: I'm currently doing two postgraduate courses, one in the testing area at Anhanguera University and the other in the DevOps/SRE area at PUC Minas.<br><br>
+<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:wrench: I'm currently learning Selenium, trying to improve in java and sometimes studying a little about performance test.<br><br>:books: I'm currently doing two postgraduate courses, one in the testing area at Anhanguera University and the other in the DevOps/SRE area at PUC Minas<br><br>
 
 
 <h2 align="left">Techs I use often:</h2>
