@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I'm currently doing 2 postgraduate courses, the first one in the Software Quality area at Anhanguera University, the second one in the Cloud Computing area at Anhanguera University as well.<br><br>:computer: Bash biggest fan.<br><br>:gem: I'm currently learning more about cybersecurity and penetration tests.<br>
+<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I'm currently doing 2 postgraduate courses, the first one in the Software Quality area at Anhanguera University, the second one in the Cloud Computing area at Anhanguera University as well.<br><br>:computer: Bash biggest fan.<br><br>:gem: I'm currently learning more about cybersecurity and all types of tests.<br>
 
 
 <h2 align="left">Techs I use often:</h2>
