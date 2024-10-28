@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I have 2 postgraduate courses, the first one in the Software Quality area at Anhanguera University, the second one in the Cloud Computing area at Anhanguera University as well.<br><br>:gem: I'm currently learning more about all types of tests in web applications and DSA.<br><br>:desktop_computer: Huge fan of JMeter and Node.js.<br>
+<p align="left">:bulb: I started coding in 2014, when I was doing my bachelor's degree in civil engineering, at the time the language was C++ and the IDE was Falcon.<br><br>:books: I have 2 postgraduate courses, the first one in the Software Quality area at Anhanguera University, the second one in the Cloud Computing area at Anhanguera University as well.<br><br>:gem: I'm currently learning more about all types of tests in web applications and DSA.<br><br>:desktop_computer: Huge fan of JMeter, Node.js and Automations through scripts.<br>
 
 
 <h2 align="left">Techs I use often:</h2>
