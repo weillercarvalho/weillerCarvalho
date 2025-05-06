@@ -53,9 +53,7 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/weillercarvalho/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=C3C3C3&color=C3C3C3"></a>
   <a href="https://weillercarvalho.com/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=Website&logoColor=white&labelColor=black&color=1aaba8"></a>
-  <a href="https://linktr.ee/weillercarvalho" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-100000?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=C3C3C3&color=C3C3C3"></a> 
 </div>
 
 
